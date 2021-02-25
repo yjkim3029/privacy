@@ -1,3 +1,26 @@
 {
-
+  "resultCode": "SUCCESS",
+  "timestamp": 1614233293281,
+  "postboxList": [
+    {
+      "mailId": 1501248210654127,
+      "templateId": 10001,
+      "individualId": 0,
+      "buyYn": "N",
+      "from": "system",
+      "time": 1614233293280
+      "rewardBundle": {
+        "itemList": [
+          {
+            "id", 9001,
+            "cnt": 100
+          },
+          {
+            "id", 9102,
+            "cnt": 3
+          }
+        ]
+      }
+    }
+  ]
 }
